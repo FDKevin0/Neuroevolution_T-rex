@@ -23,7 +23,7 @@
         outputNum
     );
 
-    var popsize = 1;
+    var popsize = 2;
 
     /**
      * 初始化遗传进化神经网络
